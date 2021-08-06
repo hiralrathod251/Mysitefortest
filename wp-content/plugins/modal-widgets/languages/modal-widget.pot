@@ -1,0 +1,652 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Modal Popup Widgets for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-18 07:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: widgets/modal.php:158
+msgid "3D Flip (horizontal)"
+msgstr ""
+
+#: widgets/modal.php:159
+msgid "3D Flip (vertical)"
+msgstr ""
+
+#: widgets/modal.php:163
+msgid "3D Rotate Bottom"
+msgstr ""
+
+#: widgets/modal.php:164
+msgid "3D Rotate In Left"
+msgstr ""
+
+#: widgets/modal.php:160
+msgid "3D Sign"
+msgstr ""
+
+#: widgets/modal.php:162
+msgid "3D Slit"
+msgstr ""
+
+#. %1$s doc link
+#: widgets/modal.php:348
+msgid ""
+"<b>Note:</b> Make sure you add the actual URL of the video and not the "
+"categorized URL.</br></br><b>Valid:</b>&nbsp;https://vimeo.com/274860274</br>"
+"<b>Invalid:</b>&nbsp;https://vimeo.com/channels/staffpicks/274860274"
+msgstr ""
+
+#. %1$s doc link
+#: widgets/modal.php:334
+msgid ""
+"<b>Note:</b> Make sure you add the actual URL of the video and not the share "
+"URL.</br></br><b>Valid:</b>&nbsp;https://www.youtube.com/watch?"
+"v=HJRzUQMhJMQ</br><b>Invalid:</b>&nbsp;https://youtu.be/HJRzUQMhJMQ"
+msgstr ""
+
+#: widgets/modal.php:947
+msgid "Add your custom class without the dot. e.g: my-class"
+msgstr ""
+
+#: widgets/modal.php:959
+msgid "Add your custom id without the Pound key. e.g: my-id"
+msgstr ""
+
+#: widgets/modal.php:459
+msgid "Advanced Settings"
+msgstr ""
+
+#: widgets/modal.php:1174
+msgid "After"
+msgstr ""
+
+#: widgets/modal.php:987
+msgid "After Few Seconds"
+msgstr ""
+
+#: widgets/modal.php:1075 widgets/modal.php:1229 widgets/modal.php:1276
+msgid "Alignment"
+msgstr ""
+
+#: widgets/modal.php:433
+msgid "Any Random Video"
+msgstr ""
+
+#: widgets/modal.php:789
+msgid "Append the \"?fel-modal-action=modal-popup-id\" at the end of your URL."
+msgstr ""
+
+#: widgets/modal.php:394
+msgid "Aspect Ratio"
+msgstr ""
+
+#: widgets/modal.php:378
+msgid "Async Iframe Load"
+msgstr ""
+
+#: widgets/modal.php:779
+msgid "Automatic"
+msgstr ""
+
+#: widgets/modal.php:413
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/modal.php:1338 widgets/modal.php:1416 widgets/modal.php:1833
+#: widgets/modal.php:1880
+msgid "Background Color"
+msgstr ""
+
+#: widgets/modal.php:1173
+msgid "Before"
+msgstr ""
+
+#: widgets/modal.php:1931
+msgid "Border"
+msgstr ""
+
+#: widgets/modal.php:1898
+msgid "Border Color"
+msgstr ""
+
+#: widgets/modal.php:1945
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/modal.php:776 widgets/modal.php:1781
+msgid "Button"
+msgstr ""
+
+#: widgets/modal.php:1059
+msgid "Button Text"
+msgstr ""
+
+#: widgets/modal.php:1083 widgets/modal.php:1237 widgets/modal.php:1284
+msgid "Center"
+msgstr ""
+
+#: widgets/modal.php:945
+msgid "Class"
+msgstr ""
+
+#: widgets/modal.php:932
+msgid "Click Here"
+msgstr ""
+
+#: widgets/modal.php:2330
+msgid ""
+"Click here to edit the \"Modal Popup\" settings. This text will not be "
+"visible on frontend."
+msgstr ""
+
+#: widgets/modal.php:1061 widgets/modal.php:1062
+msgid "Click Me"
+msgstr ""
+
+#: widgets/modal.php:556
+msgid "Close As"
+msgstr ""
+
+#: widgets/modal.php:548
+msgid "Close Button"
+msgstr ""
+
+#: widgets/modal.php:598 widgets/modal.php:615
+msgid "Close Icon"
+msgstr ""
+
+#: widgets/modal.php:578
+msgid "Close Image"
+msgstr ""
+
+#: widgets/modal.php:731
+msgid "Close on ESC Keypress"
+msgstr ""
+
+#: widgets/modal.php:743
+msgid "Close on Overlay Click"
+msgstr ""
+
+#: widgets/modal.php:685 widgets/modal.php:1322 widgets/modal.php:1397
+msgid "Color"
+msgstr ""
+
+#: widgets/modal.php:194 widgets/modal.php:1389 widgets/modal.php:2042
+msgid "Content"
+msgstr ""
+
+#: widgets/modal.php:1428
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/modal.php:213
+msgid "Content Type"
+msgstr ""
+
+#: widgets/modal.php:432
+msgid "Current Video Channel"
+msgstr ""
+
+#: widgets/modal.php:777
+msgid "Custom Class"
+msgstr ""
+
+#: widgets/modal.php:778 widgets/modal.php:957
+msgid "Custom ID"
+msgstr ""
+
+#: widgets/modal.php:223
+msgid "Description"
+msgstr ""
+
+#: widgets/modal.php:444
+msgid "Disable Player Controls"
+msgstr ""
+
+#: widgets/modal.php:769
+msgid "Display Modal On"
+msgstr ""
+
+#: widgets/modal.php:761
+msgid "Display Settings"
+msgstr ""
+
+#: widgets/modal.php:1977
+msgid "Display Text"
+msgstr ""
+
+#: widgets/modal.php:1363
+msgid "div"
+msgstr ""
+
+#: widgets/modal.php:1041
+msgid "Do Not Show After Closing (days)"
+msgstr ""
+
+#: widgets/modal.php:257
+msgid "Embed Code / URL"
+msgstr ""
+
+#: widgets/modal.php:1023
+msgid "Enable Cookies"
+msgstr ""
+
+#: widgets/modal.php:384
+msgid ""
+"Enabling this option will reduce the page size and page loading time. The "
+"related CSS and JS scripts will load on request. A loader will appear during "
+"loading of the Iframe."
+msgstr ""
+
+#: widgets/modal.php:487
+msgid "End Time"
+msgstr ""
+
+#: widgets/modal.php:225
+msgid ""
+"Enter content here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+"Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.​ Lorem "
+"ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus "
+"nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: widgets/modal.php:969
+msgid "Exit Intent"
+msgstr ""
+
+#: widgets/modal.php:1114
+msgid "Extra Large"
+msgstr ""
+
+#: widgets/modal.php:1110
+msgid "Extra Small"
+msgstr ""
+
+#: widgets/modal.php:152
+msgid "Fade in &amp; Scale"
+msgstr ""
+
+#: widgets/modal.php:156
+msgid "Fall"
+msgstr ""
+
+#: widgets/modal.php:1357
+msgid "H1"
+msgstr ""
+
+#: widgets/modal.php:1358
+msgid "H2"
+msgstr ""
+
+#: widgets/modal.php:1359
+msgid "H3"
+msgstr ""
+
+#: widgets/modal.php:1360
+msgid "H4"
+msgstr ""
+
+#: widgets/modal.php:1361
+msgid "H5"
+msgstr ""
+
+#: widgets/modal.php:1362
+msgid "H6"
+msgstr ""
+
+#: widgets/modal.php:118
+msgid "Height of Iframe"
+msgstr ""
+
+#: widgets/modal.php:1856
+msgid "Hover"
+msgstr ""
+
+#: widgets/modal.php:1915
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/modal.php:1354
+msgid "HTML Tag"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/themesflat"
+msgstr ""
+
+#: widgets/modal.php:564 widgets/modal.php:773 widgets/modal.php:801
+#: widgets/modal.php:818 widgets/modal.php:1142 widgets/modal.php:1156
+msgid "Icon"
+msgstr ""
+
+#: widgets/modal.php:853 widgets/modal.php:1564 widgets/modal.php:1708
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/modal.php:872
+msgid "Icon Hover Color"
+msgstr ""
+
+#: widgets/modal.php:1169
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/modal.php:1528 widgets/modal.php:1672
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/modal.php:1197
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/modal.php:2049
+msgid "Iframe"
+msgstr ""
+
+#: widgets/modal.php:1735
+msgid "Iframe Loader Color"
+msgstr ""
+
+#: widgets/modal.php:360
+msgid "Iframe URL"
+msgstr ""
+
+#: widgets/modal.php:560 widgets/modal.php:774 widgets/modal.php:891
+msgid "Image"
+msgstr ""
+
+#: widgets/modal.php:713
+msgid "Image / Icon Position"
+msgstr ""
+
+#: widgets/modal.php:2463
+msgid "It seems that, you have not saved any template yet."
+msgstr ""
+
+#: widgets/modal.php:1091
+msgid "Justified"
+msgstr ""
+
+#: widgets/modal.php:1113
+msgid "Large"
+msgstr ""
+
+#: widgets/modal.php:1079 widgets/modal.php:1233 widgets/modal.php:1280
+msgid "Left"
+msgstr ""
+
+#: widgets/modal.php:165
+msgid "Let me in"
+msgstr ""
+
+#: widgets/modal.php:1005
+msgid "Load After Seconds"
+msgstr ""
+
+#: widgets/modal.php:530
+msgid "Loop"
+msgstr ""
+
+#: widgets/modal.php:166
+msgid "Make way!"
+msgstr ""
+
+#: widgets/modal.php:1112
+msgid "Medium"
+msgstr ""
+
+#: widgets/modal.php:147
+msgid "Modal Appear Effect"
+msgstr ""
+
+#: widgets/modal.php:28 widgets/modal.php:72
+msgid "Modal Popup"
+msgstr ""
+
+#: widgets/modal.php:2329
+msgid "Modal Popup - ID "
+msgstr ""
+
+#. Name of the plugin
+msgid "Modal Popup Widgets for Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Modal Popup Widgets for Elementor allows to WP Cute"
+msgstr ""
+
+#: widgets/modal.php:80
+msgid "Modal Popup Width"
+msgstr ""
+
+#: widgets/modal.php:512
+msgid "Modest Branding"
+msgstr ""
+
+#: widgets/modal.php:500
+msgid "Mute"
+msgstr ""
+
+#: widgets/modal.php:155
+msgid "Newspaper"
+msgstr ""
+
+#: widgets/modal.php:382 widgets/modal.php:417 widgets/modal.php:448
+#: widgets/modal.php:463 widgets/modal.php:517 widgets/modal.php:735
+#: widgets/modal.php:747 widgets/modal.php:973 widgets/modal.php:991
+#: widgets/modal.php:1027
+msgid "No"
+msgstr ""
+
+#: widgets/modal.php:1807
+msgid "Normal"
+msgstr ""
+
+#: widgets/modal.php:1474
+msgid "Note: The Upload SVG option is not supported for the Vimeo play icon."
+msgstr ""
+
+#: widgets/modal.php:1618
+msgid "Note: The Upload SVG option is not supported for the YouTube play icon."
+msgstr ""
+
+#: widgets/modal.php:175
+msgid "Overlay Color"
+msgstr ""
+
+#: widgets/modal.php:1365
+msgid "p"
+msgstr ""
+
+#: widgets/modal.php:1125 widgets/modal.php:1303
+msgid "Padding"
+msgstr ""
+
+#: widgets/modal.php:240 widgets/modal.php:2043
+msgid "Photo"
+msgstr ""
+
+#: widgets/modal.php:1447 widgets/modal.php:1591
+msgid "Play Icon"
+msgstr ""
+
+#: widgets/modal.php:720
+msgid "Popup - Top Left"
+msgstr ""
+
+#: widgets/modal.php:721
+msgid "Popup - Top Right"
+msgstr ""
+
+#: widgets/modal.php:722
+msgid "Popup Edge - Top Left"
+msgstr ""
+
+#: widgets/modal.php:723
+msgid "Popup Edge - Top Right"
+msgstr ""
+
+#: widgets/modal.php:428
+msgid "Related Videos From"
+msgstr ""
+
+#: widgets/modal.php:1087 widgets/modal.php:1241 widgets/modal.php:1288
+msgid "Right"
+msgstr ""
+
+#: widgets/modal.php:2046
+msgid "Saved Page"
+msgstr ""
+
+#: widgets/modal.php:2045
+msgid "Saved Section"
+msgstr ""
+
+#: widgets/modal.php:2053
+msgid "Saved Widget"
+msgstr ""
+
+#: widgets/modal.php:2455
+msgid "Select"
+msgstr ""
+
+#: widgets/modal.php:1473 widgets/modal.php:1503 widgets/modal.php:1617
+#: widgets/modal.php:1647
+msgid "Select Icon"
+msgstr ""
+
+#: widgets/modal.php:301
+msgid "Select Page"
+msgstr ""
+
+#: widgets/modal.php:275
+msgid "Select Section"
+msgstr ""
+
+#: widgets/modal.php:288
+msgid "Select Widget"
+msgstr ""
+
+#: widgets/modal.php:157
+msgid "Side Fall"
+msgstr ""
+
+#: widgets/modal.php:628 widgets/modal.php:663 widgets/modal.php:831
+#: widgets/modal.php:908 widgets/modal.php:1106
+msgid "Size"
+msgstr ""
+
+#: widgets/modal.php:154
+msgid "Slide in (bottom)"
+msgstr ""
+
+#: widgets/modal.php:153
+msgid "Slide in (right)"
+msgstr ""
+
+#: widgets/modal.php:167
+msgid "Slip from top"
+msgstr ""
+
+#: widgets/modal.php:1111
+msgid "Small"
+msgstr ""
+
+#: widgets/modal.php:1364
+msgid "span"
+msgstr ""
+
+#: widgets/modal.php:476
+msgid "Specify a start time (in seconds)"
+msgstr ""
+
+#: widgets/modal.php:489
+msgid "Specify an end time (in seconds)"
+msgstr ""
+
+#: widgets/modal.php:474
+msgid "Start Time"
+msgstr ""
+
+#: widgets/modal.php:161
+msgid "Super Scaled"
+msgstr ""
+
+#: widgets/modal.php:775 widgets/modal.php:930
+msgid "Text"
+msgstr ""
+
+#: widgets/modal.php:1817 widgets/modal.php:1866 widgets/modal.php:1988
+msgid "Text Color"
+msgstr ""
+
+#: widgets/modal.php:2006
+msgid "Text Hover Color"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themes Flat"
+msgstr ""
+
+#: widgets/modal.php:206
+msgid "This is Modal Title"
+msgstr ""
+
+#: widgets/modal.php:513
+msgid ""
+"This option lets you use a YouTube player that does not show a YouTube logo."
+msgstr ""
+
+#: widgets/modal.php:201 widgets/modal.php:1265
+msgid "Title"
+msgstr ""
+
+#: widgets/modal.php:1793 widgets/modal.php:2026
+msgid "Typography"
+msgstr ""
+
+#: widgets/modal.php:780
+msgid "Via URL"
+msgstr ""
+
+#: widgets/modal.php:2044
+msgid "Video Embed Code"
+msgstr ""
+
+#: widgets/modal.php:314
+msgid "Video URL"
+msgstr ""
+
+#: widgets/modal.php:2048
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/modal.php:718
+msgid "Window - Top Left"
+msgstr ""
+
+#: widgets/modal.php:719
+msgid "Window - Top Right"
+msgstr ""
+
+#: widgets/modal.php:383 widgets/modal.php:418 widgets/modal.php:449
+#: widgets/modal.php:464 widgets/modal.php:518 widgets/modal.php:736
+#: widgets/modal.php:748 widgets/modal.php:974 widgets/modal.php:992
+#: widgets/modal.php:1028
+msgid "Yes"
+msgstr ""
+
+#: widgets/modal.php:2047
+msgid "YouTube"
+msgstr ""
